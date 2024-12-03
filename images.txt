@@ -1,4 +1,4 @@
-docker pull arm64v8/mongo:4.0.27
+arm64v8/mongo:4.0.27
 #支持私库
 arm64v8/mongo:4.0.27
 #支持指定架构
